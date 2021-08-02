@@ -17,6 +17,7 @@ class Main():
         print("function title")
         fucntion_name  = self.function_error.__name__
         print(fucntion_name)
+        print("TEst function")
 
         #error_is_here 
         
